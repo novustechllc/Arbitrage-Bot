@@ -1,0 +1,22 @@
+{
+  "name": "arbitrage-bot",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "big.js": "^6.2.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@balancer-labs/v2-interfaces": "0.4.0",
+    "@nomicfoundation/hardhat-toolbox": "3.0.0",
+    "@openzeppelin/contracts": "4.9.1",
+    "@uniswap/v2-periphery": "1.1.0-beta.0",
+    "hardhat": "2.15.0"
+  }
+}
