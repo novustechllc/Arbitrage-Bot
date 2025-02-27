@@ -25,8 +25,8 @@ Welcome to the `Arbitrage-Bot` repository — a comprehensive toolkit designed t
   - [Contributions](#contributions)
   - [Project Updates](#project-updates)
 - [Support the Project](#support-the-project)
-- [Contact](#contact-support-project)
-- [License](#license-for-project)
+- [Contact](#contact)
+- [License](#license)
 
 ## What is Arbitrage?
 
