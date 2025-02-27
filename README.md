@@ -166,7 +166,7 @@ We continuously monitor the evolving DeFi ecosystem and will update this project
 
 Our project operates on principles of open source and privacy. We maintain no social media presence, conduct no marketing activities, and receive no compensation for our GitHub contributions. We have no affiliations with other projects.
 
-## 📞 Contact
+## Contact
 
 | Platform | Link |
 |----------|------|
@@ -185,6 +185,6 @@ Our project operates on principles of open source and privacy. We maintain no so
 
 Feel free to reach out for implementation assistance or integration support.
 
-## License 📝
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
